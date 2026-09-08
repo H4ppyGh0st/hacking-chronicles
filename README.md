@@ -56,13 +56,15 @@ Each vulnerability is documented with technical details such as:
 * Disclosure timeline
 * Remediation recommendations
 
-### Published Research
+### Published Research 
 
 | CVE            | Product | Vulnerability                           | Severity |
 | -------------- | ------- | --------------------------------------- | -------- |
 | CVE-2026-11944 | openSIS | Authenticated Path Traversal            | Medium   |
 | CVE-2026-8406  | openSIS | Insecure Direct Object Reference (IDOR) | High     |
 | CVE-2026-1213  | Askbot  | Insecure Direct Object Reference (IDOR) | Medium   |
+
+2 more CVEs pending review.
 
 
 > Additional CVEs and research will be added as they are publicly disclosed.
